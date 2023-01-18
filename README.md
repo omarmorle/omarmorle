@@ -3,21 +3,21 @@
 
 --------
 
-- 🔭 I’m currently studying at the ESCOM
+- 🔭 I’m a graduate of the **ESCOM, I.P.N.**
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 I’m currently practicing **React and Laravel**
 
 - 📫 How to reach me **omarmorleno@gmail.com**
 
-- ⚡ Fun fact **I love doing magic tricks**
+- ⚡ Fun fact **I love topics about sports**
 
 --------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Omarmorlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brujeriatech" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omar-moreno-lozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josejesusguzman" height="30" width="40" /></a>
-<a href="https://instagram.com/omar._.moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brujeriatech" height="30" width="40" /></a>
+<a href="https://twitter.com/Omarmorlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-moreno-lozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/omar._.moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 </p>
 
 --------
