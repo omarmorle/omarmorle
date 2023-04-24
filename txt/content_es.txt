@@ -1,0 +1,23 @@
+titulo_contacto|Contacto
+linkedin|LinkedIn
+github|GitHub
+correo_electronico|Correo electrónico
+Titulo_portfolio|Mi portafolio
+sobre_mi|Sobre mí
+sobremi|Sobre mí
+mi_portfolio|Mi portafolio
+portafolio|Portafolio
+gitstats|Estadísticas de GitHub
+contacto|Contacto
+switch_en|Switch to English
+recuerdos|Recuerdos
+desc1|Soy un Desarrollador Web SR en el Instituto Politécnico Nacional (IPN) y egresado de ingeniería en sistemas computacionales. Tengo habilidades en desarrollo de sitios web tanto en FrontEnd como en Back End, y las aplico para crear soluciones innovadoras y eficientes que ayuden a cumplir con los objetivos planteados.
+desc2|Me destaco por mi aprendizaje continuo y mi iniciativa para mejorar estrategias en el desarrollo web. Soy una persona tenaz y con habilidad para resolver problemas, lo que me permite encontrar soluciones creativas y efectivas a los desafíos que se presentan. Con estas habilidades, me esfuerzo por seguir innovando y mejorando en mi trabajo.
+lenguajes|Lenguajes y tecnologías
+cerrar|Cerrar
+nombre_input_es|Nombre
+correo_input_es|Correo electrónico
+mensaje_input_es|Mensaje
+enviar_input_es|Enviar
+verDescripcion|Ver descripción
+certifications|Certificaciones

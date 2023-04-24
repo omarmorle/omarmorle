@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.collage-container {
+  position: relative;
+  width: 25%;
+  height: 0;
+  padding-bottom: 33.33%; /* Cambia el padding-bottom al 33.33% para lograr una relación de aspecto 4:3 */
+  overflow: hidden;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 16.66% 5%; /* Cambia el padding-top para ajustar la posición del collage-title */
+  box-sizing: border-box;
+}
+
+.image-container {
+  position: absolute;
+  width: 90%; /* Establece el ancho del imageContainer */
+  height: 60%;
+  border: 2px solid black;
+  background-color: #f0f0f0;
+  left: 50%; /* Centra el imageContainer horizontalmente */
+  transform: translateX(-50%); /* Ajusta la posición horizontalmente */
+  top: 5%; /* Establece la distancia desde la parte superior del collage-container */
+}
+
+.collage-img {
+  position: absolute;
+  width: 18%; /* Disminuye el valor de width a 16% para separar un poco más las imágenes */
+  margin: 2%; /* Aumenta el valor de margin a 2% para separar un poco más las imágenes */
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999; /* Agregar este estilo para asegurar que el modal esté al frente de todo */
+}
+
+.modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  width: auto; /* Cambia el ancho a 'auto' */
+  height: auto; /* Cambia la altura a 'auto' */
+  box-sizing: border-box;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Agrega una sombra para el efecto Polaroid */
+}
+
+.modal-description {
+  margin-top: 10px;
+}
+
+.modal-img {
+  width: 512px; /* Establece el ancho de la imagen en 512px */
+  max-height: 100%;
+  object-fit: contain;
+  transition: transform 0.2s;
+}
+
+.collage-title {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Dancing Script', cursive; /* Agrega una fuente cursiva y vintage para el título */
+}
