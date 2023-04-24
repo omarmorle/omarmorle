@@ -3,7 +3,7 @@ linkedin|LinkedIn
 github|GitHub
 correo_electronico|Correo electrónico
 Titulo_portfolio|Mi portafolio
-sobre_mi|Sabsre mí
+sobre_mi|Sobre mí
 sobremi|Sobre mí
 mi_portfolio|Mi portafolio
 portafolio|Portafolio
