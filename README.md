@@ -5,7 +5,7 @@
 
 - 🔭 I’m a graduate of the **ESCOM, I.P.N.**
 
-- 🌱 I’m currently practicing **React and Laravel**
+- 🌱 I’m currently working with **ColdFusion** but i'm learning about **Spring**
 
 - 📫 How to reach me **omarmorleno@gmail.com**
 
