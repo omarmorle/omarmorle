@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I love topics about sports**
 
+- 💻 I used to solve problems in codeforces **https://codeforces.com/profile/leches**
+
 --------
 
 <h3 align="left">Connect with me:</h3>
